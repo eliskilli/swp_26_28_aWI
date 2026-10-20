@@ -14,6 +14,7 @@
         _ when int.TryParse(userInput, out _) => "Integer",
         _ when double.TryParse(userInput, out _) => "rational number",
         _ => "String"
+
     };
 
     Console.WriteLine("Thats a " + type);
