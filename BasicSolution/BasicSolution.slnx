@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="MyFirstConoleApp/MyFirstConoleApp.csproj" />
+  <Project Path="MyFirstTestProject/MyFirstTestProject.csproj" Id="8c402d93-bfb1-44f7-a265-b4a5f602095b" />
 </Solution>
