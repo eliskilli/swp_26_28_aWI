@@ -1,4 +1,8 @@
 <Solution>
+  <Folder Name="/Projektmappenelemente/">
+    <File Path="FirstOOP/Kuh.cs" />
+  </Folder>
   <Project Path="MyFirstConoleApp/MyFirstConoleApp.csproj" />
   <Project Path="MyFirstTestProject/MyFirstTestProject.csproj" Id="8c402d93-bfb1-44f7-a265-b4a5f602095b" />
+  <Project Path="Smues/Smues.csproj" Id="3c4ae45b-da76-4d66-b23f-5b5c37bdc9a3" />
 </Solution>
